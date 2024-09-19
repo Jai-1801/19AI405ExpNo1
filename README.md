@@ -1,13 +1,12 @@
 # ExpNo 1 : Developing AI Agent with PEAS Description
 ### Name : JAI SURYA R
 ### Register Number : 212223230084
-
+<br>
 
 ## AIM:
 
 To find the PEAS description for the given AI problem and develop an AI agent.
-
-
+<br>
 
 ## Theory
 <h3>Medicine prescribing agent:</h3>
@@ -43,8 +42,7 @@ To find the PEAS description for the given AI problem and develop an AI agent.
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-
-
+<br>
 
 ## Program:
 
@@ -107,14 +105,14 @@ agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
 ```
-
+<br>
 
 ## OUTPUT:
 
 ![image](https://github.com/Abrinnisha6/19AI405ExpNo1/assets/118889454/d25b99e5-e78b-4193-ab41-ff72eb3a0bc6)
 
 
-
+<br>
 ## RESULT:
 
 Thus the Developing AI Agent with PEAS Description was implemented using python programming.
