@@ -105,7 +105,9 @@ agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
 ```
+
 <br>
+
 
 ## OUTPUT:
 
